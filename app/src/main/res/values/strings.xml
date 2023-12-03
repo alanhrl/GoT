@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoT</string>
+    <string name="present">Game of Thrones API</string>
+    <string name="Login">Ingresar</string>
+    <string name="Register">Registrarse</string>
+    <string name="forgot_pass">¿Olvidó su contraseña? Restablecer aquí</string>
+    <string name="pass">Contraseña</string>
+    <string name="email">Correo electrónico</string>
+    <string name="creditos">App API Game of Thrones\npor Alan HL</string>
+    <string name="action_settings">GoT</string>
+    <string name="sesion">Cerrar Sesión</string>
+</resources>

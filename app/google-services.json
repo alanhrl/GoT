@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328901234248",
+    "project_id": "my-got-api",
+    "storage_bucket": "my-got-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328901234248:android:1de225577a30dcc071527d",
+        "android_client_info": {
+          "package_name": "com.example.got"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-T-QHV1PYfAciZLeEe3KDkgRCdh3-NHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
